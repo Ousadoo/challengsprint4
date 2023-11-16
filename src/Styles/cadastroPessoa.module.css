@@ -1,13 +1,8 @@
-
-
 .header h2{
     display: flex;
     justify-content: center;
     align-items: center;
   }
-
-/* .container{
-} */
 
 .boxPerfil{
     width: 100%;
@@ -24,7 +19,7 @@
     width: 100%;
 }
 .input{
-        width: 100%;
+        width: 60%;
         height: 30px;
         border-top: none;
         border-left: none;

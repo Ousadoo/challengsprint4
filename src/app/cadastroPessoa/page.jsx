@@ -53,7 +53,7 @@ export default function CadastroPessoa() {
             </main>
             
             <footer className={css.footer}>
-                <Link href="/" className={css.linkFooter}> <Image src="/sair.png" alt="Sair" width={150} height={150}/> Sair</Link>
+                <Link href="/" className={css.linkFooter}> <Image src="/sair.png" alt="Sair" width={150} height={150}/></Link>
             </footer>
 
         </main>

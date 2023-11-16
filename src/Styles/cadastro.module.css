@@ -82,8 +82,8 @@ flex-wrap: wrap;
 }
 
 .linkFooter{
-        color: white;
-        text-decoration: none;
-        font-size: 3.0em;
-    }
-
+    color: white;
+    text-decoration: none;
+    margin-top: 30% ;
+    font-size: 3.0em;
+}

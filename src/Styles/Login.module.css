@@ -12,7 +12,8 @@
 }
 
 .divInput{
-  width: 100%;
+  width: 60%;
+  margin: auto;
   display: flex;
   text-align: center;
   justify-content: center;

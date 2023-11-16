@@ -15,7 +15,7 @@ export default function RecuperacaoSenha() {
         </div>
 
         <div>
-          <h1>Recuperação de Senha</h1>
+          <h1 className={css.titulorec}>Recuperação de Senha</h1>
             <form action="#">
                 <div className={css.divInput}>
                     <input type="text"  className={css.input}  name="txtRecSenha" id="idRecSenha" placeholder="Recuperação de Senha" />
@@ -29,7 +29,7 @@ export default function RecuperacaoSenha() {
     </main>
 
     <footer className={css.footer}>
-        <Link href="/login" className={css.linkFooter}><Image src="/sair.png" alt="Sair" width={150} height={150}/>Sair  </Link>
+        <Link href="/login" className={css.linkFooter}><Image src="/sair.png" alt="Sair" width={150} height={150}/></Link>
     </footer>
     </>
   )}
