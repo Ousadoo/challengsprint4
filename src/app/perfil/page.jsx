@@ -13,7 +13,7 @@ export default function Perfil() {
                     <p>Status do seguro</p>
                     </div>
 
-                    <div className={css.status}><h7 >Ativo</h7>  </div>
+                    <div className={css.status}><h2 >Ativo</h2>  </div>
                 </div>
 
                 <div className={css.perfil}>
