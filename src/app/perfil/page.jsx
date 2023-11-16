@@ -17,7 +17,7 @@ export default function Perfil() {
                 </div>
 
                 <div className={css.perfil}>
-                    <Link href="/perfil"> <Image src="/perfil.png" alt="foto perfil" width={150} height={150}/> </Link>
+                    <Link href="/perfil"> <Image src="/perfil.png" alt="foto perfil" width={150} height={150} priority/> </Link>
                 </div>
             </header>
 
