@@ -37,7 +37,8 @@ export default function Login() {
         </main>
 
         <footer className={css.footer}>
-            <Link href='/'><Image src="/portoSeguro.png" alt="logo porto seguro" width={350} height={100}/></Link>
+
+            <Image src="/portoSeguro.png" alt="logo porto seguro" width={450} height={150}/>
         </footer>
 
     </>
